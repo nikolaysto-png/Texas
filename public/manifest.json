@@ -1,7 +1,7 @@
 {
-  "name": "Texas Hold'em Poker",
-  "short_name": "Poker",
-  "description": "Single-player Texas Hold'em Poker against AI bots",
+  "name": "Texas",
+  "short_name": "Texas",
+  "description": "Single-player Texas Hold'em against AI bots",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

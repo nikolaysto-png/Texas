@@ -459,9 +459,9 @@ export default function PokerGame() {
               ♠
             </motion.div>
             <h1 className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 via-amber-400 to-yellow-500 mb-2">
-              Texas Hold'em
+              Texas
             </h1>
-            <p className="text-gray-400 text-lg">Single Player Poker</p>
+            <p className="text-gray-400 text-lg">Single Player Hold'em</p>
           </div>
           
           {/* Features */}

@@ -1,6 +1,6 @@
-# Texas Hold'em Poker 🃏
+# Texas 🃏
 
-A single-player Texas Hold'em poker game with AI bots, built with React, TypeScript, and Tailwind CSS.
+A single-player Texas Hold'em game with AI bots, built with React, TypeScript, and Tailwind CSS.
 
 ## 🎮 Features
 
@@ -57,7 +57,7 @@ Open the URL shown in terminal (usually `http://localhost:3000`).
 
 6. Click **Save**
 
-7. Wait 1-2 minutes, then visit: `https://nikolaysto-png.github.io/Poker./`
+7. Wait 1-2 minutes, then visit: `https://nikolaysto-png.github.io/Texas/`
 
 8. **Install as app**: Click the install icon (⊕) in Chrome's address bar → "Install Poker"
 
